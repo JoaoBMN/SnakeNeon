@@ -70,7 +70,6 @@ public class Croba : MonoBehaviour
         score += 10;
         txtScore.text = "Score: " + score.ToString();
 
-        
     }
 
     private void Reset()
